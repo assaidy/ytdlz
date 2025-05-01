@@ -24,5 +24,5 @@ The script will then:
 - Video downloads as MP4 with selected resolution
 - Files are saved in current directory with original titles
 
-> **Note about YouTube Shorts**
+> [!WARNING]
 > For YouTube Shorts: Qualities below 320p may not be available via the API and could cause errors. Choose a higher quality
