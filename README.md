@@ -15,7 +15,7 @@ A simple bash script to download YouTube videos or audio with interactive qualit
 The script will then:
 
 1. Ask whether to download video or audio-only
-2. For video: let you select the resolution
+2. For video: let you select from available resolutions
 3. Download the content with optimal settings
 
 ### Output
