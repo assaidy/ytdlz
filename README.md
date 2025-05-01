@@ -23,3 +23,6 @@ The script will then:
 - Audio downloads as best quality audio file with metadata
 - Video downloads as MP4 with selected resolution
 - Files are saved in current directory with original titles
+
+> **Note about YouTube Shorts**
+> For YouTube Shorts: Qualities below 320p may not be available via the API and could cause errors. Choose a higher quality
